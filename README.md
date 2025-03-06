@@ -1,4 +1,4 @@
-# trainingyolo
+# training yolo
 launching training for yolo
 Автоматизированный пайплайн для обучения моделей YOLO с поддержкой пользовательских данных
 
